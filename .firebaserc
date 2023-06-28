@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "examen-9af19": {
+      "hosting": {
+        "app": [
+          "examen-9af19"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "examen-9af19"
+  }
+}
